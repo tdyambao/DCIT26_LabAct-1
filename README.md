@@ -177,6 +177,3 @@ Each student must:
 - Submit a screenshot of their terminal showing `git log` from their personal branch.
 - Provide a link to their branch in the repository.
 - Ensure that `notes.txt` and README updates are visible in their branch on GitHub.
-\n## Additional Notes\nThis is an update.
-\n## Additional Notes\nThis is an update.
-\n## Additional Notes\nThis is an update.
