@@ -80,7 +80,7 @@ Each student must create a branch named using this format:
 **Example:**
 
 ```bash
-git checkout -b feature/201811394
+git checkout -b RAMONES-CS_3-3/201811394
 ```
 
 > This ensures that every student works on their own branch without affecting `main`.
@@ -123,7 +123,7 @@ Stage, commit, and push:
 ```bash
 git add README.md
 git commit -m "Update README with additional notes"
-git push origin feature/201811394
+git push origin RAMONES-CS_3-3/201811394
 ```
 
 Students should verify changes on GitHub in their own branch.
@@ -136,7 +136,7 @@ After everyone has pushed their branch, the instructor may demonstrate merging o
 
 ```bash
 git checkout main
-git merge feature/201811394
+git merge RAMONES-CS_3-3/201811394
 git push origin main
 ```
 
@@ -147,7 +147,7 @@ git push origin main
 Students must:
 
 - Refresh the repository page on GitHub.
-- Confirm that their branch (e.g., `feature/201811394`) exists.
+- Confirm that their branch (e.g., `RAMONES-CS_3-3/201811394`) exists.
 - Check that their commits and files appear under their branch.
 
 ---
