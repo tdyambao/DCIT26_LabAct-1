@@ -74,7 +74,7 @@ cd DCIT 26_LabAct-1
 Each student must create a branch named using this format:
 
 ```
-feature/<your-student-number>
+(Surname- Course/Yr/Sec)/<your-student-number>
 ```
 
 **Example:**
