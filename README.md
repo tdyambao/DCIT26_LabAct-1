@@ -29,6 +29,8 @@ Each student must configure their Git identity **for this repository only** (not
 ```bash
 git config user.name "Your Name"
 git config user.email "your.email@example.com"
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
 ```
 
 Verify your configuration:
