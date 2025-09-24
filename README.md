@@ -63,8 +63,8 @@ Each student will clone the class repository:
 
 ```bash
 cd path/to/your/workspace
-git clone https://github.com/2026-DCIT26/LabActivity1.git
-cd LabActivity1
+git clone https://github.com/hernzia/DCIT26_LabAct-1.git
+cd DCIT 26_LabAct-1
 ```
 
 ---
